@@ -7,7 +7,7 @@ configuration:
   prefetch: viewport
   analytics: null
   locale: zh-CN
-  baseUrl: dasiwocom.github.io/dict
+  baseUrl: dict.dasiwo.com
   ignorePatterns:
     - private
     - templates
